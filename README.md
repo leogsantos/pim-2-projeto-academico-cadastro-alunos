@@ -1,5 +1,10 @@
 # Sistema de Cadastro de Alunos
 
+> Este projeto foi desenvolvido exclusivamente para fins educacionais (PIM - Projeto Integrador Multidisciplinar), seguindo estritamente os requisitos e orientações definidos pelos professores da disciplina.  
+> Algumas decisões de implementação e arquitetura refletem essas diretrizes acadêmicas e não necessariamente representam as melhores práticas de desenvolvimento em ambientes profissionais.
+
+---
+
 Este projeto é composto por dois módulos principais:
 - **cadastro_alunos.c**: Software em C para cadastro de alunos via terminal, salvando os dados em um arquivo CSV.
 - **interface_alunos.py**: Interface gráfica em Python (Tkinter) para visualizar e gerenciar os alunos cadastrados.
@@ -60,5 +65,3 @@ README.md
 - A interface gráfica pode ser executada diretamente (duplo clique ou via terminal).
 - O projeto não requer instalação de dependências externas para o Python (Tkinter já vem na instalação padrão).
 
----
-**Desenvolvido para fins acadêmicos.**
